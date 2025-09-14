@@ -1,0 +1,11 @@
+its a simple program...........
+start with the FirstPage.java
+all my individuals class is a program ...so its even easier to understand for the new user of java
+administrator id: mukesh
+password :sah
+librarian id :staff
+password:pass
+
+user u create urself :the default password of user is :nitrkl
+
+for any comment mail me at mukeshsah227@gmail.com
